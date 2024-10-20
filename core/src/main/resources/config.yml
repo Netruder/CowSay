@@ -1,0 +1,14 @@
+# BungeeCord's part
+database:
+  host: 127.0.0.1
+  port: 3306
+  database: server
+  username: root
+  password: ""
+
+# Spigot's part
+cow:
+  radius: 7.0
+  speed: 3.0
+  lifetime: 200 # in ticks
+  particle: FLAME

@@ -1,0 +1,5 @@
+name: CowSaySpigot
+main: com.syfr.cowsay.spigot.CowSayPluginSpigot
+version: project_version
+
+author: syfr

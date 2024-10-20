@@ -1,0 +1,5 @@
+name: CowSayBungee
+main: com.syfr.cowsay.bungee.CowSayPluginBungee
+version: project_version
+
+author: syfr
